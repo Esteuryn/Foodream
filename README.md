@@ -6,6 +6,14 @@
 
 This is a fully responsive landing page that includes sections like a hero area, featured menu items, seasonal offers, location map, testimonials, about us, and a contact form. The backend uses **Node.js + Express + Nodemailer** to handle contact form submissions via email.
 
+## 🖼️ Screenshots
+
+### 🏠 Homepage
+![Homepage](Screenshots/homepage.png)
+
+### 🍕 Menu Section
+![Menu Section](Screenshots/menu-section.png)
+
 ## 📦 Folder Structure
 
 ```
